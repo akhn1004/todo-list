@@ -23,6 +23,7 @@
     "source-map-loader": "^1.0.0",
     "ts-loader": "^7.0.5",
     "ts-node": "^8.10.2",
+    "tslint": "^6.1.2",
     "typescript": "^3.9.5",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",

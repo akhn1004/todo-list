@@ -6,7 +6,7 @@ module.exports = {
     mode: "development",
     devtool: "source-map",
     resolve: {
-        extensions: [",ts", ".js"],
+        extensions: [".ts", ".js"],
         alias: {
             vue$: "vue/dist/vue.esm.js",
         }
